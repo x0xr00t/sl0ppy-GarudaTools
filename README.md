@@ -10,7 +10,7 @@ A all in one installer for Garuda Linux Tools
 # Sit back and wait. 
 
 # Issues ??
-* make a ticket.
+* Feel free to make a ticket.
 
 # author
 `x0xr00t`
