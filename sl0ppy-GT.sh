@@ -40,7 +40,7 @@ banner= '''
    \$$  $$ \$$    $$ \$$    $$| $$|       $$                
     \$$$$   \$$$$$$   \$$$$$$  \$$ \$$$$$$$                 
 '''                                                           
-                                                            
+echo -e "\e[5;31;40m"                                                            
 echo $banner                                                          
 echo -e "\e[0m"
 echo "Welcome to sl0ppy-GT Garuda Tools Installer"
