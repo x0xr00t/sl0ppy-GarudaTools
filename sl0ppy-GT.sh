@@ -3,7 +3,7 @@
 # author: p.hoogeveen
 # aka   : x0xr00t
 # build : 20232008
-# name  : sl0ppy-GTI (Sl0ppy-GarudaToolsInstaller)
+# name  : sl0ppy-GT (Sl0ppy-GarudaTools)
 
 banner= '''
            __   ______                                      
