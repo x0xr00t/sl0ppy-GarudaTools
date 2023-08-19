@@ -1,5 +1,5 @@
 # sl0ppy-GarudaTools
-A Garuda Linux Tools installer
+A all in one installer for Garuda Linux Tools
 
 # install 
 * `git clone https://github.com/x0xr00t/sl0ppy-GarudaTools`
