@@ -44,5 +44,14 @@ banner="""
 echo $banner                                                          
 echo -e "\e[0m"
 echo "Welcome to sl0ppy-GT Garuda Tools Installer"
-
 sudo pacman -S --needed blackarch blackarch-scanners blackarch-misc blackarch-crackers blackarch-voip blackarch-forensics blackarch-wireless blackarch-recon blackarch-webapps blackarch-networking blackarch-defense blackarch-exploit blackarch-spoof blackarch-fingerprinting blackarch-crypto blackarch-backdoors blackarch-fuzzers blackarch-malware blackarch-honeypots blackarch-analysis blackarch-source-audit blackarch-database blackarch-bluetooth blackarch-autonomous blackarch-proxy blackarch-sniffers blackarch-tunnel blackarch-bruteforce blackarch-social-engineering blackarch-reverse blackarch-dns blackarch-debugging blackarch-decompile blackarch-intel blackarch-dos blackarch-ddos blackarch-enumeration blackarch-mitm blackarch-wordlists blackarch-exploits
+echo "sl0ppy-GTI BlackArch Tools Installation completed."
+sleep 0.5
+echo -n "Thanks for using our Garuda tools installer tool!!"
+sleep 0.5
+echo -n "."
+sleep 0.5
+echo -n "."
+sleep 0.5
+echo "."
+exit
