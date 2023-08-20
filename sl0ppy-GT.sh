@@ -5,7 +5,7 @@
 # build : 20232008
 # name  : sl0ppy-GT (Sl0ppy-GarudaTools)
 
-banner= '''
+banner= '''\033[5;31;40m
            __   ______                                      
           |  \ /      \                                     
   _______ | $$|  $$$$$$\  ______    ______   __    __       
@@ -39,8 +39,7 @@ banner= '''
   | $$|  \| $$__/ $$| $$__/ $$| $$ _\$$$$$$\                
    \$$  $$ \$$    $$ \$$    $$| $$|       $$                
     \$$$$   \$$$$$$   \$$$$$$  \$$ \$$$$$$$                 
-'''                                                           
-echo -e "\e[5;31;40m"                                                            
+'''                                                                                                                       
 echo -e $banner                                                          
 echo -e "\e[0m"
 echo "Welcome to sl0ppy-GT Garuda Tools Installer"
