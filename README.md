@@ -1,5 +1,5 @@
 # sl0ppy-GarudaTools
-A all in one installer for Garuda Linux Tools
+A all in one installer for Garuda Linux Tools, this will install all the existing blackarch tools.
 
 # install 
 * `git clone https://github.com/x0xr00t/sl0ppy-GarudaTools`
