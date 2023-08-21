@@ -1,10 +1,10 @@
 # sl0ppy-GarudaTools
 A all in one installer for Garuda Linux Tools, this will install all the existing blackarch tools.
 
-# needed 
+# Needed 
 * pacman (which can be installed from the install assistent in garuda linux)
 
-# why
+# Why
 * Well the answer is very simple, while installing tools for blackarch i encountered sum issues installing stuff, so i made this tool based on pacman -Sg which shows all the installable packages.. & It saves u time, installing all the stuff manual.
 
 # Arch system it works on
@@ -12,7 +12,7 @@ A all in one installer for Garuda Linux Tools, this will install all the existin
 * `garuda linux.`
 * `blackarch light.` 
 
-# install 
+# Install 
 * `git clone https://github.com/x0xr00t/sl0ppy-GarudaTools`
 * `cd sl0ppy-GarudaTools`
 * `chmod +x sl0ppy-GT.sh`
@@ -23,5 +23,5 @@ A all in one installer for Garuda Linux Tools, this will install all the existin
 # Issues ??
 * Feel free to make a ticket.
 
-# author
+# Author
 `x0xr00t`
