@@ -54,9 +54,15 @@ banner='''\033[5;31;40m
 
 echo -e "${RED}Welcome${GREEN} to the${YELLOW} sl0ppy-${BLUE}GT${MAGENTA} Garuda${CYAN} Tools${WHITE} Installer${NC}!"
 echo -e "$banner\033[0m"
-sudo pacman -S --needed --noconfirm blackarch blackarch-scanner blackarch-misc blackarch-cracker blackarch-voip blackarch-forensic blackarch-wireless blackarch-recon blackarch-webapp blackarch-networking blackarch-windows blackarch-defensive blackarch-exploitation  blackarch-fingerprint blackarch-crypto blackarch-backdoor blackarch-fuzzer blackarch-malware blackarch-honeypot blackarch-firmware blackarch-hardware blackarch-stego blackarch-ids blackarch-sniffer blackarch-code-audit blackarch-database blackarch-bluetooth blackarch-automation blackarch-proxy blackarch-tunnel blackarch-bruteforce blackarch-social blackarch-mobile  blackarch-debugger blackarch-decompiler blackarch-disassembler blackarch-dos blackarch-keylogger blackarch-config blackarch-packer blackarch-binary blackarch-anti-forensic blackarch-spoof blackarch-drone blackarch-automobile
+sleep 3 
+echo -e "${GREEN}sl0ppy-${BLUE}GT${MAGENTA} Install ${CYAN} Pacman ${WHITE} Tools.${NC}"
+sudo pacman -S --needed --noconfirm yay blackarch blackarch-scanner blackarch-misc blackarch-cracker blackarch-voip blackarch-forensic blackarch-wireless blackarch-recon blackarch-webapp blackarch-networking blackarch-windows blackarch-defensive blackarch-exploitation  blackarch-fingerprint blackarch-crypto blackarch-backdoor blackarch-fuzzer blackarch-malware blackarch-honeypot blackarch-firmware blackarch-hardware blackarch-stego blackarch-ids blackarch-sniffer blackarch-code-audit blackarch-database blackarch-bluetooth blackarch-automation blackarch-proxy blackarch-tunnel blackarch-bruteforce blackarch-social blackarch-mobile  blackarch-debugger blackarch-decompiler blackarch-disassembler blackarch-dos blackarch-keylogger blackarch-config blackarch-packer blackarch-binary blackarch-anti-forensic blackarch-spoof blackarch-drone blackarch-automobile
+sleep 0.7
+echo -e "${GREEN}sl0ppy-${BLUE}GT${MAGENTA} Install ${CYAN} YAY ${WHITE} Tools.${NC}"
+sudo yay -S strutscan 
+sleep 0.13
 echo -e "${GREEN}sl0ppy-${BLUE}GT${MAGENTA} Garuda${CYAN} Tools${WHITE} Installation completed.${NC}"
-sleep 0.5
+sleep 0.7
 echo -e "${GREEN}Thanks${WHITE} for${YELLOW} using${RED} our${MAGENTA} Garuda${CYAN} tools${BLUE} installer${NC}!"
 sleep 0.5
 echo -n "."
